@@ -1,0 +1,9 @@
+[submodule "torch-gqn"]
+	path = torch-gqn
+	url = https://github.com/DveloperY0115/torch-gqn.git
+[submodule "torch-pointnet"]
+	path = torch-pointnet
+	url = https://github.com/DveloperY0115/torch-pointnet.git
+[submodule "torch-deepvoxels"]
+	path = torch-deepvoxels
+	url = https://github.com/DveloperY0115/torch-deepvoxels.git
